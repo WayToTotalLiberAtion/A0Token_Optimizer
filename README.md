@@ -22,7 +22,7 @@ This project uses a **"Pure Aggressive"** architecture to extract the absolute m
 
 Built from the ground up for seamless integration into **Agent Zero**, solving typical problems of standard compressors:
 
-*   🐳 **Docker-Native & Systemd-Free:** Perfect for the containerized environment of Agent Zero. The daemon runs stably and continuously in the foreground (`--foreground`), without relying on outdated `systemd` dependencies. It even survives reboots.
+*   🐳 **Docker-Native & Systemd-Free:** Perfect for the containerized environment of Agent Zero. The daemon runs stably and continuously in the foreground, without relying on outdated `systemd` dependencies. It even survives reboots.
 *   ⚡ **HTTP Daemon (Port 9199):** Instead of reloading gigantic models into memory with every call, the model runs as a resource-friendly background service. CLI tools and Agent Zero communicate at lightning speed via a local REST API.
 *   🧮 **CPU-Optimized PyTorch Bundle:** Uses a custom, CPU-only PyTorch environment (`transformers v4.46.3`) to avoid compatibility issues in VPS environments.
 
