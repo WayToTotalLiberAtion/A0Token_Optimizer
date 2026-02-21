@@ -43,7 +43,8 @@ Based on the powerful `microsoft/llmlingua-2-xlm-roberta-large-meetingbank` mode
 
 ## 🤝 Contributing & Philosophy
 
-I am very much looking forward to forks with good improvements. Let's make AI more cost-efficient to become more discrimination-free and accessible to everyone.
+I am very much looking forward to forks with good improvements. Let's make AI more cost-efficient to become more discrimination-free and accessible to everyone. Since this is made for Anarcho use, if you are using the skill in a Company/Enterprise, please make me a fair 
+offer via my email: agentzer000@pm.me
 
 > *Developed as a Custom Skill for Agent Zero. Inspired by LLMLingua2.*
 
