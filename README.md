@@ -7,7 +7,7 @@
 > **Anarcho-Skills transitioning to Total Liberation**  
 > *Extreme Prompt Compression & Context Optimization, specifically designed for Agent Zero on Enterprise Level.*
 
-The **A0 Token Optimizer** is a high-performance custom skill for Agent Zero, designed to drastically reduce API costs and maximize the efficiency of your context window. Inspired by **LLMLingua2** technology, this tool extracts the absolute essence from texts, documents, prompts, and images.
+The **A0 Token Optimizer** is a high-performance custom skill for Agent Zero, designed to drastically reduce Out Token and maximize the efficiency of your context window. Inspired by **LLMLingua2** technology, this tool extracts the absolute essence from texts, documents, prompts, and images.
 
 ---
 
@@ -15,8 +15,8 @@ The **A0 Token Optimizer** is a high-performance custom skill for Agent Zero, de
 
 This project uses a **"Pure Aggressive"** architecture to extract the absolute maximum in efficiency:
 
-*   🔥 **Extreme Compression Rate (90%):** Reduces input texts and prompts to just **10% of their original size**. This means 90% fewer in-tokens and massively reduced API costs for large contexts. Additionally, the built-in token calculator keeps you up to date on your token expenses.
-*   🧠 **High Semantic Quality (~88-92%):** The tool is trained to write for *Artificial Intelligence*, not for humans. While the compressed text often looks like an unreadable "keyword soup" to the human eye, it retains almost its complete semantic meaning and instructional power for LLMs.
+*   🔥 **Extreme Compression Rate (90%):** Reduces input texts and prompts up to just **10% of their original size**. This means 90% fewer out-tokens and massivly reduced API costs for large contexts.
+*   🧠 **High Semantic Quality (~88-100%):** The tool is trained to write for *Artificial Intelligence*, not for humans. While the compressed text often looks like an unreadable "keyword soup" to the human eye, it retains almost its complete semantic meaning and instructional power for LLMs.
 
 ## 🤖 Optimized for Agent Zero
 
@@ -24,7 +24,7 @@ Built from the ground up for seamless integration into **Agent Zero**, solving t
 
 *   🐳 **Docker-Native & Systemd-Free:** Perfect for the containerized environment of Agent Zero. The daemon runs stably and continuously in the foreground, without relying on outdated `systemd` dependencies. It even survives reboots.
 *   ⚡ **HTTP Daemon (Port 9199):** Instead of reloading gigantic models into memory with every call, the model runs as a resource-friendly background service. CLI tools and Agent Zero communicate at lightning speed via a local REST API.
-*   🧮 **CPU-Optimized PyTorch Bundle:** Uses a custom, CPU-only PyTorch environment (`transformers v4.46.3`) to avoid compatibility issues in VPS environments.
+*   🧮 **CPU-Optimized PyTorch Bundle:** Uses a custom, CPU-only PyTorch environment (`transformers v4.46.3`) to avoid compatibility issues in VPS Docker environments.
 
 ## 📄 Advanced File and Image Processing
 
@@ -37,14 +37,13 @@ The optimizer is not limited to pure text but offers a comprehensive pipeline fo
 ## ⚙️ How it works (The "Pure Aggressive" Engine)
 
 Instead of relying on error-prone hybrid approaches or soft fallbacks, Version 1.0 uses the **Pure Aggressive Engine**. 
-Based on the powerful `microsoft/llmlingua-2-xlm-roberta-large-meetingbank` model, which downloads on the first run (requires up to 3GB). The engine forces the system to a strict retention rate of 10%. Unimportant filler words, formatting, and redundant sentence fragments are mercilessly removed, while the core facts and instructions for the target LLM are preserved.
+Based on the powerful `microsoft/llmlingua-2-xlm-roberta-large-meetingbank` model, which downloads on the first run (requires up to 3GB). The engine forces the system to a strict retention rate of up to 10%. Unimportant filler words, formatting, and redundant sentence fragments are mercilessly removed, while the core facts and instructions for the target LLM are preserved.
 
 ---
 
 ## 🤝 Contributing & Philosophy
 
-I am very much looking forward to forks with good improvements. Let's make AI more cost-efficient to become more discrimination-free and accessible to everyone. Since this is made for Anarcho use, if you are using the skill in a Company/Enterprise, please make me a fair 
-offer via my email: agentzer000@pm.me
+I am very much looking forward to forks with good improvements. Let's make AI more cost-efficient to become more discrimination-free and accessible to everyone. Since this is made for Anarcho use, if you are using the skill in a Company/Enterprise, please make me a fair offer via my email: agentzer000@pm.me
 
 > *Developed as a Custom Skill for Agent Zero. Inspired by LLMLingua2.*
 
