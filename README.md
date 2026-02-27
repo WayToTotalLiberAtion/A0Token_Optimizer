@@ -16,7 +16,7 @@ The **A0 Token Optimizer** is a high-performance custom skill for Agent Zero, de
 This project uses a **"Pure Aggressive"** architecture to extract the absolute maximum in efficiency:
 
 *   🔥 **Extreme Compression Rate (90%):** Reduces input texts and prompts up to just **10% of their original size**. This means 90% fewer out-tokens and massivly reduced API costs for large contexts.
-*   🧠 **High Semantic Quality (~88-100%):** The tool is trained to write for *Artificial Intelligence*, not for humans. While the compressed text often looks like an unreadable "keyword soup" to the human eye, it retains almost its complete semantic meaning and instructional power for LLMs.
+*   🧠 **High Semantic Quality (~92-100%):** The tool is trained to write for *Artificial Intelligence*, not for humans. While the compressed text often looks like an unreadable "keyword soup" to the human eye, it retains almost its complete semantic meaning and instructional power for LLMs.
 
 ## 🤖 Optimized for Agent Zero
 
