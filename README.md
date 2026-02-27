@@ -5,7 +5,7 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Pure%20Aggressive-red.svg)]()
 
 > **Anarcho-Skills transitioning to Total Liberation**  
-> *Extreme Prompt Compression & Context Optimization, specifically designed for Agent Zero.*
+> *Extreme Prompt Compression & Context Optimization, specifically designed for Agent Zero on Enterprice Level.*
 
 The **A0 Token Optimizer** is a high-performance custom skill for Agent Zero, designed to drastically reduce API costs and maximize the efficiency of your context window. Inspired by **LLMLingua2** technology, this tool extracts the absolute essence from texts, documents, prompts, and images.
 
