@@ -1,4 +1,4 @@
-# 🚀 A0 Token Optimizer v1.0
+# 🚀 A0 Token Optimizer v2.0
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)]() 
 [![Optimized For](https://img.shields.io/badge/Optimized%20for-Agent%20Zero-orange.svg)]()
